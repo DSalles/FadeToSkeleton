@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FadeToSkeleton", "FadeToSkeleton\FadeToSkeleton\FadeToSkeleton.csproj", "{F5846CB5-6874-4BAF-A1CF-8BC250BAEEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FadeToSkeletonContent", "FadeToSkeleton\FadeToSkeletonContent\FadeToSkeletonContent.contentproj", "{CC3E7553-C506-4330-ABB5-07785AC77879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5846CB5-6874-4BAF-A1CF-8BC250BAEEC3}.Debug|x86.ActiveCfg = Debug|x86
+		{F5846CB5-6874-4BAF-A1CF-8BC250BAEEC3}.Debug|x86.Build.0 = Debug|x86
+		{F5846CB5-6874-4BAF-A1CF-8BC250BAEEC3}.Release|x86.ActiveCfg = Release|x86
+		{F5846CB5-6874-4BAF-A1CF-8BC250BAEEC3}.Release|x86.Build.0 = Release|x86
+		{CC3E7553-C506-4330-ABB5-07785AC77879}.Debug|x86.ActiveCfg = Debug|x86
+		{CC3E7553-C506-4330-ABB5-07785AC77879}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
